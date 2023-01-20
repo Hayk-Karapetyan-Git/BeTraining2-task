@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BeTraining2-task/static/css/main.6ea8d61a.css",
-    "main.js": "/BeTraining2-task/static/js/main.74833075.js",
+    "main.js": "/BeTraining2-task/static/js/main.a31ab719.js",
     "static/media/training2-training-pic3.png": "/BeTraining2-task/static/media/training2-training-pic3.bc9e87a0987cf3d9f1b1.png",
     "static/media/training2-wrapbg1.jpg": "/BeTraining2-task/static/media/training2-wrapbg1.97f35a3551ab65e738f9.jpg",
     "static/media/training2-about-pic1.jpg": "/BeTraining2-task/static/media/training2-about-pic1.ff910de46b5cd3273c6d.jpg",
@@ -17,10 +17,10 @@
     "static/media/training2-footerbg.png": "/BeTraining2-task/static/media/training2-footerbg.43559181a62b4584773e.png",
     "index.html": "/BeTraining2-task/index.html",
     "main.6ea8d61a.css.map": "/BeTraining2-task/static/css/main.6ea8d61a.css.map",
-    "main.74833075.js.map": "/BeTraining2-task/static/js/main.74833075.js.map"
+    "main.a31ab719.js.map": "/BeTraining2-task/static/js/main.a31ab719.js.map"
   },
   "entrypoints": [
     "static/css/main.6ea8d61a.css",
-    "static/js/main.74833075.js"
+    "static/js/main.a31ab719.js"
   ]
 }
