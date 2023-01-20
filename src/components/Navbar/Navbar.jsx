@@ -1,15 +1,21 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { FaTimes } from "react-icons/fa";
 import { logo } from "../../constants/images";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-import { useLocation } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 
 const Navbar = React.memo(() => {
   const [toggleMenu, setToggleMenu] = useState(false);
   const location = useLocation()
   const path = location.pathname;
+  const navigate = useNavigate()
+  
+useEffect(() => {
+  navigate("/");
+},[]);
+
   return (
     <>
       <nav className="app__navbar">
