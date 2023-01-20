@@ -1,0 +1,23 @@
+.app__training-feature__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.app__training-feature__container h1 {
+    font-size: 2.7rem;
+    text-align: left;
+}
+
+.app__training-feature__container p {
+    width: 60%;
+    text-align: left;
+    margin-left: auto;
+}
+
+.app__training-feature__container button {
+    margin: 2rem;
+}

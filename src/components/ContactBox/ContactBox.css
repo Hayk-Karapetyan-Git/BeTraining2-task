@@ -1,0 +1,14 @@
+
+
+.app__component_contact-box__container p{
+    text-align: center;
+    color: white;
+    margin: 0.6rem 0;
+    font-size: 15px;
+}
+
+.app__component_contact-box__container h2 {
+    font-family: var(--font-base);
+    margin-bottom: 2rem;
+    
+}

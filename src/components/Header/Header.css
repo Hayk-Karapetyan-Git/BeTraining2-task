@@ -1,0 +1,26 @@
+.app__header-highlightedword {
+  background-color: var(--color-pink);
+  color: var(--color-white);
+  font-family: var(--font-base);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+    padding: 0.5rem 1.5rem;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+
+.app__header-container {
+    text-align: left;
+}
+
+.app__header-container h1 {
+    margin: 2rem;
+    text-transform: none;
+}
+.app__header-container p {
+    margin: 2rem;
+    max-width: 50%; 
+
+}

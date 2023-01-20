@@ -1,0 +1,16 @@
+.app__training-section_features-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.app__training-section_features-container .app__training-feature__container{
+    max-width: 45%;
+}
+
+.space {
+    width: 100%;
+    height: 5rem;
+}

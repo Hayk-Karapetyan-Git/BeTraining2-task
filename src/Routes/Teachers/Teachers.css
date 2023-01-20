@@ -1,0 +1,8 @@
+.app__teachers-section__container_teacher-features {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    padding: 4rem 12rem;
+}

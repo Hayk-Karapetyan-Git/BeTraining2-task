@@ -1,0 +1,62 @@
+.app__contact_container__heading h1{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.app__contact_container__heading h1 span {
+    margin: 0  1rem  0 0;
+}
+
+.app__contact-features_container div h2{
+    width: max-content;
+}
+
+
+.app__contact-features_container div p{
+    width: 61%;
+    text-align: center;
+}
+
+.app__contact_map-container {
+    width: 100%;
+    height: 600px;
+    margin: 5rem 0;
+}
+
+.app__contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 6rem 18rem;
+}
+
+.app__contact-form h2 {
+    font-size: 52px;
+    line-height: 52px;
+    text-align: center;
+    text-transform: none;
+    margin-bottom: 2rem;
+}
+
+.app__contact-form_name {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 15px;
+}
+
+
+.app__contact-form input, textarea {
+    width: 100%;
+    padding: 10px;
+    color: var(--color-blue);
+    background-color: var(--color-white);
+    border: 1px solid #EBEBEB;
+    font-family: var(--font-alt);
+}
+

@@ -1,0 +1,38 @@
+.app__home-heading {
+    
+    background-image: url('../../assets/training2-sliderbg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: initial;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.app__home-heading h1 {
+    max-width: 50%;
+}
+.app__home-heading button{
+    margin-left: 2rem;
+}
+
+.app__home-button_primary {
+    background-color: rgb(240, 237, 252);
+    color: rgb(21, 0, 92);
+}
+
+.app__home-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+@media (max-width: 1100px) {
+    .app__home-content {
+      flex-wrap: wrap;
+    }
+  }
+  

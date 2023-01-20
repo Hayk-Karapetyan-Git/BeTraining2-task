@@ -1,0 +1,11 @@
+.app__lesson-features__item {
+    flex-direction: column;
+    padding: 0 15px;
+}
+
+.app__lesson-features__item h2{
+    font-size: 22px;
+    line-height: 1.5;
+    margin: 2rem 0rem 1rem 0rem;
+    width: 100%;
+}

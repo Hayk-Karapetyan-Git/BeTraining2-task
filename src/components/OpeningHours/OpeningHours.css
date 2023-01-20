@@ -1,0 +1,24 @@
+
+
+.app__component_opening-hours__container p{
+    text-align: center;
+    color: white;
+    margin: 0.6rem 0;
+    font-size: 15px;
+}
+
+.app__component_opening-hours__container h2 {
+    font-family: var(--font-base);
+    margin-bottom: 2rem;
+    
+}
+
+.app__component_opening-hours__container h6 {
+    background-color: var(--color-pink);
+    color: white;
+    font-weight: 600;
+    padding: 1px 7px;
+    border-radius: 3px;
+    font-size: 14px;
+    margin: 0.6rem 0;
+}
