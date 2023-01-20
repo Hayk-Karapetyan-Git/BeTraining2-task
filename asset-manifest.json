@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BeTraining2-task/static/css/main.6ea8d61a.css",
+    "main.js": "/BeTraining2-task/static/js/main.74833075.js",
+    "static/media/training2-training-pic3.png": "/BeTraining2-task/static/media/training2-training-pic3.bc9e87a0987cf3d9f1b1.png",
+    "static/media/training2-wrapbg1.jpg": "/BeTraining2-task/static/media/training2-wrapbg1.97f35a3551ab65e738f9.jpg",
+    "static/media/training2-about-pic1.jpg": "/BeTraining2-task/static/media/training2-about-pic1.ff910de46b5cd3273c6d.jpg",
+    "static/media/training2-training-pic1.png": "/BeTraining2-task/static/media/training2-training-pic1.c1522baeb1dc59b89c5d.png",
+    "static/media/training2-training-pic2.png": "/BeTraining2-task/static/media/training2-training-pic2.bc85ba936f848945f596.png",
+    "static/media/training2-about-pic5.jpg": "/BeTraining2-task/static/media/training2-about-pic5.f9d27d7d4feb90d575cf.jpg",
+    "static/media/training2-training-pic4.png": "/BeTraining2-task/static/media/training2-training-pic4.f78b5b43c0244005c506.png",
+    "static/media/training2-sectionbg3.jpg": "/BeTraining2-task/static/media/training2-sectionbg3.bf73940a5b4dc2a09323.jpg",
+    "static/media/training2-about-pic4.jpg": "/BeTraining2-task/static/media/training2-about-pic4.891860d269d6aac299a5.jpg",
+    "static/media/training2-about-pic3.jpg": "/BeTraining2-task/static/media/training2-about-pic3.a62ca67efd7c4c933290.jpg",
+    "static/media/training2-sliderbg.png": "/BeTraining2-task/static/media/training2-sliderbg.7f5a402932c7a5cfbb4f.png",
+    "static/media/training2-about-pic6.jpg": "/BeTraining2-task/static/media/training2-about-pic6.3eea9d61bfd93770364e.jpg",
+    "static/media/training2-footerbg.png": "/BeTraining2-task/static/media/training2-footerbg.43559181a62b4584773e.png",
+    "index.html": "/BeTraining2-task/index.html",
+    "main.6ea8d61a.css.map": "/BeTraining2-task/static/css/main.6ea8d61a.css.map",
+    "main.74833075.js.map": "/BeTraining2-task/static/js/main.74833075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea8d61a.css",
+    "static/js/main.74833075.js"
+  ]
+}
